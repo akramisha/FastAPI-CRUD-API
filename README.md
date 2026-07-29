@@ -51,8 +51,8 @@ This project demonstrates the fundamentals of building APIs using Python, includ
 ### Clone the repository
  
 ```bash
-git clone https://github.com/akramisha/fastapi-task-api.git
-cd fastapi-task-api
+git clone https://github.com/akramisha/FastAPI-CRUD-API.git
+cd FastAPI-CRUD-API
 ```
  
 ### Install dependencies
