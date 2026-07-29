@@ -11,4 +11,22 @@ A simple RESTful Task Management API built with **FastAPI** as part of my backen
 This project demonstrates the fundamentals of building APIs using Python, including CRUD operations, HTTP status codes, path parameters, request bodies, and automatic API documentation with Swagger UI.
  
 ---
+
+## ✨ Features
  
+- ✅ View all tasks
+- ✅ View a single task by ID
+- ✅ Create a new task (with input validation)
+- ✅ Update an existing task
+- ✅ Delete a task
+- ✅ Task statistics endpoint
+- ✅ Automatic Swagger UI documentation
+- ✅ Proper HTTP status codes and error handling
+---
+ 
+## 🛠️ Tech Stack
+ 
+- Python 3
+- FastAPI
+- Uvicorn
+---
