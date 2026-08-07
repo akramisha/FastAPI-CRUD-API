@@ -13,6 +13,17 @@ This project demonstrates the fundamentals of building APIs using Python, includ
  
 ---
 
+## ✨ Features
+ 
+- ✅ View all tasks
+- ✅ View a single task by ID
+- ✅ Create a new task (with input validation)
+- ✅ Update an existing task
+- ✅ Delete a task
+- ✅ Task statistics endpoint
+- ✅ Automatic Swagger UI documentation
+- ✅ Proper HTTP status codes and error handling
+---
 
  
 ## 🛠️ Tech Stack
