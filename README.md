@@ -129,6 +129,7 @@ content-type: application/json
 <div align="center">
 <img src="screenshots/swagger-ui.png" width="90%" alt="Swagger UI showing all endpoints" />
 </div>
+
 ---
  
 ## 📚 What I Learned
